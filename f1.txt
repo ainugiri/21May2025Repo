@@ -1,0 +1,5 @@
+f1 is new file,
+untracked file
+
+
+git -> monitor / track ->  git add filename
